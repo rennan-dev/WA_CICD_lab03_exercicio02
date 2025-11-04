@@ -28,7 +28,7 @@ jobs:
         with:
           context: ./
           push: true
-          tags: moisesgc/webacademy:latest
+          tags: rennanalves11/webacademy:latest
 
   deploy:
     needs: build 
